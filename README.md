@@ -1,4 +1,4 @@
-# springboard-timers-exercise
+# Springboard timers exercise
 Springboard timers exercise
 
 ## countdown
